@@ -34,7 +34,7 @@ education:
     institution: Institute of Electrics, Chinese Academy of Sciences
     year: 2016 - 2019
   - course: BSc in Communication Engineering
-    institution: Beijing University Of Chemical Technology
+    institution: Beijing University of Chemical Technology
     year: 2012 - 2016
 
 # Social/Academic Networking
