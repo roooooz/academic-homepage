@@ -1,9 +1,9 @@
 +++
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
+headless = false  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 20  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
@@ -18,27 +18,30 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Ph.D Student"
+  company = "Shanghai Jiao Tong University"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Shanghai, China"
+  date_start = "2019-09-01"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  description = """Research on deep learning and computer vision, specifically focusing on image inpainting."""
+
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Research Intern"
+  company = "Fudan University"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Shanghai, China"
+  date_start = "2018-09-01"
+  date_end = "2016-10-31"
+  description = """Research on semantic segmentation in remote sensing, supervised by [Prof. Mingmin Chi](http://homepage.fudan.edu.cn/mingmin/) """
 
+[[experience]]
+  title = "M.S Student"
+  company = "Institute of Electrics, Chinese Academy of Sciences"
+  company_url = ""
+  location = "Beijing, China"
+  date_start = "2016-09-01"
+  date_end = "2019-06-01"
+  description = """Research on high resolution SAR image geometric calibration."""
 +++
