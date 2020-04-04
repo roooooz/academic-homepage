@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Wentao Wang is currently a Ph.D. student in [Department of Computer Science and Technology](http://www.cs.sjtu.edu.cn/), [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/).  His research advisors are [Prof. Liqing Zhang](http://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=137) and [Prof. Li Niu](http://bcmi.sjtu.edu.cn/home/niuli/).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Wentao Wang research interests include geolocation calibration and geocoding in remote sensing, deep learning and computer vision, especially focusing on generative adversarial networks (GAN) and image inpainting now. 
