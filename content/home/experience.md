@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Shanghai, China"
   date_start = "2019-09-01"
   date_end = ""
-  description = **"""Research on deep learning and computer vision, specifically focusing on image inpainting."""**
+  description = """**Research on deep learning and computer vision, specifically focusing on image inpainting.**"""
 
 
 [[experience]]
@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   location = "Shanghai, China"
   date_start = "2018-09-01"
   date_end = "2016-10-31"
-  description = **"""Research on semantic segmentation in remote sensing, supervised by [Prof. Mingmin Chi](http://homepage.fudan.edu.cn/mingmin/) """**
+  description = """**Research on semantic segmentation in remote sensing, supervised by [Prof. Mingmin Chi](http://homepage.fudan.edu.cn/mingmin/)** """
 
 [[experience]]
   title = "M.S Student"
@@ -43,5 +43,5 @@ date_format = "Jan 2006"
   location = "Beijing, China"
   date_start = "2016-09-01"
   date_end = "2019-06-01"
-  description = **"""Research on high resolution SAR image geometric calibration."""**
+  description = """**Research on high resolution SAR image geometric calibration.**"""
 +++
