@@ -5,7 +5,7 @@
 title: "Decimeter-level geolocation accuracy updated by a parametric tropospheric model with GF-3"
 authors: ["Wentao Wang", "Jiayin Liu", "Xiaolan Qiu"]
 date: 2018-01-01
-doi: ""
+doi: "https://doi.org/10.3390/s18072197"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-04-05T03:05:54.157486Z
@@ -24,7 +24,7 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
+tags: [SCI]
 categories: []
 featured: false
 
