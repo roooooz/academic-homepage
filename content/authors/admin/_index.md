@@ -54,7 +54,7 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/roooooz
-- icon: bloffer
+- icon: blogger
   icon_pack: fab
   link: https://roooooz.github.io/
   
